@@ -104,6 +104,7 @@ python app.py
 * 스레드: 프로세스 내 실행 단위
 * CPU 스케줄링: CPU 자원 할당 방식
 * 교착상태: 자원 대기로 인한 무한 대기 상태
+<img width="1355" height="661" alt="image" src="https://github.com/user-attachments/assets/7990f730-cebe-492b-bbbd-5c61e94a0a31" />
 
 ---
 
