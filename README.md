@@ -106,6 +106,8 @@ python app.py
 * 교착상태: 자원 대기로 인한 무한 대기 상태
 <img width="1355" height="661" alt="image" src="https://github.com/user-attachments/assets/7990f730-cebe-492b-bbbd-5c61e94a0a31" />
 
+<img width="865" height="401" alt="image" src="https://github.com/user-attachments/assets/5382bafa-16fe-4664-8964-a92417a2b864" />
+
 ---
 
 #### [TODO]
